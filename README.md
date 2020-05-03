@@ -1,2 +1,2 @@
-# tab-ext
+# Tableau Extensions and WDC
 tableau idc 
